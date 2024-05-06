@@ -28,8 +28,18 @@
 - **上传BlindHub一作XianruiQin的论文分享PPT**
 
 ## 📖Community Resources
+- **江山老师分享PPT，涉及对区块链各方面的杂谈分享，内容详解可参考[本文](https://www.zhihu.com/question/422311303/answer/2214832435)**
+- **路远老师分享PPT，涉及对小飞象系列共识算法的讲解，内容详解可参考[本文](https://zhuanlan.zhihu.com/p/459025656)**
+- **Chaochen_Shi面向智能合约的代码智能技术分享PPT**
+- **深入浅出零知识证明分享PPT**
+- **BlockSec对Web3观点分享PDF**
+- **BlindHub一作XianruiQin的论文分享PPT**
 
 ## 👨‍🎓Member Links
-- **社群贺博士整理的与智能合约相关的会议和文章，详情点击[链接]()**
+- **社群贺博士整理的与智能合约相关的会议和文章，详情点击[链接](https://github.com/hzysvilla/Academic_Smart_Contract_Papers)**
 
 ## 🔗Related Resources
+-  **区块链中文资源汇总[资源](https://github.com/LiuBoyu/blockchain)**
+-  **区块链中文技术开发文档资料[资源](https://github.com/chaozh/awesome-blockchain-cn)**
+-  **区块链学术论文参考[列表](https://github.com/decrypto-org/blockchain-papers)**
+-  **区块链学习路径[参考](https://github.com/protofire/blockchain-learning-path)**
